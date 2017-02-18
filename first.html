@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>First steps</title>
+</head>
+<body>
+<script>
+// Authenticate via API Key
+var tumblr = require('tumblr.js');
+var client = tumblr.createClient({ consumer_key: 'wokgb1W1iSIoffPspWTW65ndmbY5z1q110kPdd5JEOboLeO70w' });
+
+// Make the request
+client.posts('avalonprand.tumblr.com', { tag: 'bjork' }, function (err, data) {
+    // ...
+});
+</script>
+<h1>First step</h1>
+<p>I need to read up on javascript some more!</p>
+</body>
+</html>
