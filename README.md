@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Tumblr Tool
 
-You can use the [editor on GitHub](https://github.com/veromary/tumblrtool/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My task, to make a csv catalog from a tumblr blog - a particular tumblr blog maintained by my husband.  In fact the blog is [AvalonPrand](http://www.avalonprand.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I would like to add available work to his online shop [peterbrandt.com.au](http://www.peterbrandt.com.au).
+
+Caveat: I'm learning as I go here - starting with [this gist](https://gist.github.com/jeremyjbowers/4559388)
 
 ### Markdown
 
